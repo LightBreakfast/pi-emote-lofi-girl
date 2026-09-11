@@ -46,7 +46,8 @@ Then map it in your pi-emote config:
 
 ## Notes
 
-- All PNGs in this set have been re-encoded cleanly.
+- All state PNGs are 64x64 with a consistent 1px transparent border.
+- PNGs have been re-encoded cleanly.
 - The talk frames are unique: `talk_close`, `talk_small`, `talk_mid`, `talk_wide`.
 - The write animation frames are unique: `write1`, `write2`.
 - `idle` and `think` use `emotes.json` to map default and alternate frames.
