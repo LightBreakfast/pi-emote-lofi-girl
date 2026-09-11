@@ -2,7 +2,18 @@
 
 A Lo-Fi-inspired pixel-art emote set for [`cgxeiji/pi-emote`](https://github.com/cgxeiji/pi-emote).
 
-The ready-to-use set lives at `emotes/lofi-girl/` and includes all pi-emote states:
+## Preview
+
+### Hero
+![Lo-Fi Girl hero preview](assets/preview-hero.png)
+
+### State overview
+![Lo-Fi Girl state overview](assets/preview-grid.png)
+
+### Example terminal-style preview
+![Lo-Fi Girl terminal preview](assets/preview-terminal.png)
+
+## Included states
 
 - `hi`
 - `idle`
@@ -33,4 +44,9 @@ Then map it in your pi-emote config:
 }
 ```
 
-The set includes blink, hard-thinking, talking, typing, reading, tool-use, success, failure, greeting, and compaction artwork.
+## Notes
+
+- All PNGs in this set have been re-encoded cleanly.
+- The talk frames are unique: `talk_close`, `talk_small`, `talk_mid`, `talk_wide`.
+- The write animation frames are unique: `write1`, `write2`.
+- `idle` and `think` use `emotes.json` to map default and alternate frames.
