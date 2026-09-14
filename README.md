@@ -10,6 +10,11 @@ A Lo-Fi-inspired pixel-art emote set for [`cgxeiji/pi-emote`](https://github.com
 ### Example terminal-style preview
 ![Lo-Fi Girl terminal preview](assets/preview-terminal.png)
 
+### Live demo
+[![Watch the pi-emote demo](assets/pi-emote-demo.gif)](assets/pi-emote-demo.mp4)
+
+[Watch the full MP4 demo](assets/pi-emote-demo.mp4)
+
 ## Included states
 
 - `hi`
